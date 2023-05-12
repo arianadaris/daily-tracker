@@ -16,6 +16,6 @@
 </ul>
 
 <h4>Project Images</h4>
-![image](https://github.com/arianadaris/daily-tracker/assets/73635827/6452e765-e638-46bf-91de-b15418c31e65)
+![Screenshot 2023-05-12 at 3 47 50 PM](https://github.com/arianadaris/daily-tracker/assets/73635827/36c010d0-385d-4078-8f0d-110fe2c910f9)
 
 ![image](https://github.com/arianadaris/daily-tracker/assets/73635827/fcc57258-f147-4b77-aab7-de0d8e10e5c5)
