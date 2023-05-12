@@ -14,8 +14,3 @@
   <li> Daily.py - A script that creates a new entry in the Notion database daily using Notion API and chron (MacOS)</li>
   <li> Update.py - The helper script that interacts with NotionAPI to get data from the database and update the current day's entry</li>
 </ul>
-
-<h4>Project Images</h4>
-![Screenshot 2023-05-12 at 3 40 34 PM](https://github.com/arianadaris/daily-tracker/assets/73635827/cdc33c62-b85f-4374-8cb9-e03e04680f7f)
-
-![image](https://github.com/arianadaris/daily-tracker/assets/73635827/fcc57258-f147-4b77-aab7-de0d8e10e5c5)
