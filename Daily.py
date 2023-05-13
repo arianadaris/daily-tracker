@@ -2,9 +2,6 @@ import requests
 from datetime import datetime, timezone
 import json
 
-NOTION_TOKEN = "secret_ezOH8uZ6BdKKyBcCNI8HFGXAvy2VWiZA0GEtOJQo7TZ"
-DATABASE_ID = "dbcc15e7590b46999c34b24d1921e98f"
-
 headers = {
     "Authorization": f'Bearer {NOTION_TOKEN}',
     "Content-Type": "application/json",
